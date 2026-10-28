@@ -1,0 +1,9 @@
+{
+  "name": "小白的阅读器",
+  "short_name": "Faye reader",
+  "description": "轻点取词，选段翻译的 PDF 阅读器",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1"
+}
