@@ -1,0 +1,1 @@
+[{      "relation": ["delegate_permission/common.handle_all_urls"],      "target": {        "namespace": "android_app",        "package_name": "io.github.faye0331.twa",        "sha256_cert_fingerprints": ["10:B9:0B:5B:3A:BC:E4:4D:CA:6C:FC:BF:0A:70:C3:9C:0D:1D:46:E1:8B:AE:2E:BD:78:1E:70:07:CE:78:D2:16"]      }    }]
